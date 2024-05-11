@@ -1,6 +1,6 @@
 <br clear="both">
 
-div align="center">
+<div align="center">
   <img height="300" width="600" src="https://tenor.com/ru/view/alone-pixel-computer-raining-girl-gif-16841405"/>
 </div>
 
