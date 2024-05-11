@@ -4,10 +4,10 @@
   <img height="300" width="600" src="Haramura.gif"/>
 </div>
 
-### Hello everyone!
+## Hello everyone!
 I'm beginner in IT.
 
-## My stats:
+###My stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Haramura101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -18,7 +18,7 @@ I'm beginner in IT.
   <img src="https://streak-stats.demolab.com?user=Haramura101&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-## My contacts:
+### My contacts:
 
 <div>
     <a href="https://t.me/Haramura101" target="_blank">
