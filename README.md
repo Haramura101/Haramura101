@@ -1,8 +1,9 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://tenor.com/ru/view/alone-pixel-computer-raining-girl-gif-16841405"/>
+  <img height="300" width="600" src="[https://tenor.com/ru/view/alone-pixel-computer-raining-girl-gif-16841405](https://tenor.com/search/alone-gifs)"/>
 </div>
+
 
 ### Hello everyone!
 I'm beginner in IT.
